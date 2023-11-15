@@ -22,4 +22,4 @@ The Xiaomi Redmi 12 (codenamed _"fire"_) is an entry-level smartphone from Xiaom
 
 ## Device picture
 
-![Xiaomi Redmi 12](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-3.jpg)
+![Xiaomi Redmi 12](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-12-4.jpg)
